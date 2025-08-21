@@ -2,6 +2,8 @@
 Combines computer vision (for OCR, layout analysis, table detection,image enhancements,page matching Algorithm) with GenAI (for Extracting Values from complex documents). 
 
 Overview
+
+
 Welcome to the repository for AI-Powered Intelligent Document Analysis and Summarization. This project leverages a powerful combination of computer vision and Generative AI to intelligently process, analyze, and summarize complex documents. The goal is to transform unstructured data into actionable insights and concise summaries, automating a traditionally manual and time-consuming process.
 
 ✨ Features
